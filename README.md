@@ -1,1 +1,2 @@
-# keeper-app
+# Keeper-App
+Simple note making app like sticky notes.
